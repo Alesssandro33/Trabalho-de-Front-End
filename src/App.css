@@ -1,9 +1,9 @@
 /* === Reset e Base === */
 :root {
-  --bg-color: #1d1d1d;        /* Fundo bem escuro */
-  --card-bg: #c20000ee;         /* Fundo dos cartões */
+  --bg-color: #333030;        /* Fundo bem escuro */
+  --card-bg: #0176c4ee;         /* Fundo dos cartões */
   --text-color: #ffffff;      /* Texto branco */
-  --primary: #cf0606f5;         /* Vermelho estilo "Cinema" */
+  --primary: #0176c4ee;         /* Vermelho estilo "Cinema" */
   --primary-hover: #ebdb03;
   --secondary: #ffffff;          /* Cinza para textos secundários */
 }

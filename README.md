@@ -1,6 +1,6 @@
-# CRIADO POR MÁRIO SÉRGIO DA SILVA TEIXEIRA / 01819340
+# Alessandro da Silva Olegario / 01815848
 
-# 🎬 CINEMÁRIO - Catálogo SÉRIES/FILMES
+# 🎬 CINE - Catálogo SÉRIES/FILMES
 
 **Projeto de Frameworks Front-End**.
 O objetivo é uma aplicação web completa utilizando **React**, **TypeScript** e **JSON Server** para criar um catálogo de filmes ou series com operações CRUD (Creater, Read, Update, Delete).
@@ -18,5 +18,5 @@ Para que o projeto funcione corretamente, é necessário rodar o **Front-end** e
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/Molkyn/Catalogo-Filmes-Series](https://github.com/Molkyn/Catalogo-Filmes-Series)
+git clone [https://github.com/Alesssandro33/Catalogo-Filmes-Series](https://github.com/Molkyn/Catalogo-Filmes-Series)
 cd catalogo-filmes
