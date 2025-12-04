@@ -1,11 +1,11 @@
 /* === Reset e Base === */
 :root {
   --bg-color: #000000;        /* Fundo bem escuro */
-  --card-bg: #494848;         /* Fundo dos cartões */
+  --card-bg: #070707;         /* Fundo dos cartões */
   --text-color: #ffffff;      /* Texto branco */
-  --primary: #ff000d;         /* Vermelho estilo "Cinema" */
-  --primary-hover: #f85b00;
-  --secondary: #aaa;          /* Cinza para textos secundários */
+  --primary: #fffb00f5;         /* Vermelho estilo "Cinema" */
+  --primary-hover: #f19d00;
+  --secondary: #ffffff;          /* Cinza para textos secundários */
 }
 
 * {

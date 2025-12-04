@@ -48,7 +48,7 @@ function Home() {
 
   return (
     <div className="container">
-      <h2>Catálogo Filmes/Séries</h2>
+      <h2>Catálogo</h2>
 
       {loading && <p>Carregando...</p>}
 

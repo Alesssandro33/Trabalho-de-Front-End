@@ -1,8 +1,8 @@
-# Criado por Mário Sérgio, Matricula = 01819340, Aluno Uninassau
+# Maciel Nascimento Alves De Lino / 01820769
 
-# 🎬 CineMario - Catálogo Filmes e Séries
+# 🎬 MacielFilmes - Catálogo
 
-Projeto desenvolvido para a disciplina de **Frameworks Front-End**.
+**Frameworks Front-End**.
 O objetivo é uma aplicação web completa utilizando **React**, **TypeScript** e **JSON Server** para criar um catálogo de filmes ou series com operações CRUD (Creater, Read, Update, Delete).
 
 ## 🚀 Tecnologias Utilizadas
@@ -13,8 +13,6 @@ O objetivo é uma aplicação web completa utilizando **React**, **TypeScript** 
 * [Axios](https://axios-http.com/) (Requisições HTTP)
 * [React Router Dom](https://reactrouter.com/) (Navegação)
 * CSS Puro (Design Responsivo e Dark Mode)
-
-## ⚙️ Como Executar o Projeto
 
 Para que o projeto funcione corretamente, é necessário rodar o **Front-end** e o **Back-end** simultaneamente.
 
