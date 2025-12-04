@@ -1,8 +1,8 @@
-# Maciel Nascimento Alves De Lino / 01820769
+# CRIADO POR MÁRIO SÉRGIO DA SILVA TEIXEIRA / 01819340
 
-# 🎬 MacielFilmes - Catálogo
+# 🎬 CINEMÁRIO - Catálogo SÉRIES/FILMES
 
-**Frameworks Front-End**.
+**Projeto de Frameworks Front-End**.
 O objetivo é uma aplicação web completa utilizando **React**, **TypeScript** e **JSON Server** para criar um catálogo de filmes ou series com operações CRUD (Creater, Read, Update, Delete).
 
 ## 🚀 Tecnologias Utilizadas

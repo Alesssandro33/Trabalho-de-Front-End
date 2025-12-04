@@ -8,7 +8,7 @@ interface CardProps {
 
 function Card({ data, onDelete }: CardProps) {
   return (
-    <div style={{ border: '3px solid #ffe600ff', padding: '10px', borderRadius: '8px', width: '250px', display: 'flex', flexDirection: 'column', gap: '10px' }}>
+    <div style={{ border: '2px solid #ff0000ff', padding: '7px', borderRadius: '8px', width: '250px', display: 'flex', flexDirection: 'column', gap: '10px' }}>
       <img src={data.imagem} alt={data.titulo} style={{ width: '100%', height: '150px', objectFit: 'cover', borderRadius: '4px' }} />
       <div>
         <h3>{data.titulo}</h3>
@@ -17,9 +17,9 @@ function Card({ data, onDelete }: CardProps) {
       
       <div style={{ display: 'flex', gap: '5px' }}>
         {/* Link para editar passando o ID do filme na URL */}
-        <Link to={`/editar/${data.id}`} style={{ flex: 1, textAlign: 'center', background: '#ffc107', padding: '5px', borderRadius: '4px', textDecoration: 'none', color: 'black' }}>Editar</Link>
+        <Link to={`/editar/${data.id}`} style={{ flex: 1, textAlign: 'center', background: '#ff9c07ff', padding: '5px', borderRadius: '4px', textDecoration: 'none', color: 'black' }}>Editar</Link>
         
-        <button onClick={() => onDelete(data.id)} style={{ flex: 1, background: '#dc3545', color: 'white', border: 'none', padding: '5px', borderRadius: '4px', cursor: 'pointer' }}>
+        <button onClick={() => onDelete(data.id)} style={{ flex: 1, background: '#f50820ff', color: 'white', border: 'none', padding: '5px', borderRadius: '4px', cursor: 'pointer' }}>
           Excluir
         </button>
       </div>
